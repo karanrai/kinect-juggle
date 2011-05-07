@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="kinect-kamehameha">
+</Property><Property Name="Solution File" Value="D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\kinect-kamehameha.sln">
+</Property><Property Name="Date" Value="30 April 2011">
+</Property><Property Name="Time" Value="14:01">
+</Property></Properties><Event ErrorLevel="0" Project="kinect-kamehameha" Source="kinect-kamehameha.vcproj" Description="Converting project file 'D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\kinect-kamehameha.vcproj'.">
+</Event><Event ErrorLevel="1" Project="kinect-kamehameha" Source="kinect-kamehameha.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="kinect-kamehameha" Source="kinect-kamehameha.vcproj" Description="MSB8012: $(TargetName) ('kinect-kamehameha') does not match the Linker's OutputFile property value 'D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\Debug\kinect-kamehameha-debug.exe' ('kinect-kamehameha-debug') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="kinect-kamehameha" Source="kinect-kamehameha.vcproj" Description="MSB8012: $(TargetPath) ('D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\Debug\kinect-kamehameha.exe') does not match the Linker's OutputFile property value 'D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\Debug\kinect-kamehameha-debug.exe' ('D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\Debug\kinect-kamehameha-debug.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="kinect-kamehameha" Source="kinect-kamehameha.vcproj" Description="Done converting to new project file 'D:\documents\Visual Studio 2010\kinect\openNI\kinect-kamehameha-0.1b\src\build\kinect-kamehameha.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="kinect-kamehameha" Source="kinect-kamehameha.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="kinect-kamehameha.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="kinect-kamehameha.sln" Description="Converted">
+</Event></UpgradeLog>
