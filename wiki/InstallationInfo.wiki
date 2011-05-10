@@ -4,7 +4,7 @@
 
 == Source Code: ==
 
-  * Checkout the code with an SVN client using the link on the source>SVN tab
+  * Checkout the code with an SVN client using the link on the source>checkout tab
 
 == Software Requirements: ==
 
