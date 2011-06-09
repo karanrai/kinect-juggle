@@ -260,7 +260,7 @@ void WorldRenderer::drawBackground()
 						(*cp)[2] *= 1.2;
 
 						//assuming we only have three balls cycle through red,green and blue for each one
-						(*cp)[j] = interpolate((*cp)[0], 1.0f, a);
+						(*cp)[j] = interpolate((*cp)[j], 1.0f, a);
 						//(*cp)[1] = interpolate((*cp)[1], 1.0f, a);
 						//(*cp)[2] = interpolate((*cp)[2], 1.0f, a);
 					}
